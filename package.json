@@ -1,6 +1,6 @@
 {
-  "name": "vue-multiselect",
-  "version": "3.0.0-alpha.2",
+  "name": "@boxcast/vue-multiselect",
+  "version": "3.0.0-bxalpha.3",
   "private": false,
   "description": "Multiselect component for Vue 3",
   "author": {
